@@ -1,0 +1,84 @@
+
+/* Professional dashboard theme: modern blue/gray palette */
+body {
+    background: linear-gradient(120deg, #232526 0%, #414345 100%);
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    color: #f4f6fa;
+    min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #1976d2;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.card {
+    background: #2c2f36;
+    border-radius: 18px;
+    box-shadow: 0 4px 24px #00000022;
+    padding: 32px 28px;
+    margin: 32px auto;
+    max-width: 1200px;
+    border: 1px solid #1976d2;
+}
+
+.dash-dropdown, .Select-control, .Select-menu-outer {
+    background: #232526 !important;
+    color: #1976d2 !important;
+    border: 1px solid #1976d2 !important;
+    font-weight: 500;
+}
+
+.dash-table-container .dash-spreadsheet-container {
+    background: #232526 !important;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px #1976d244;
+}
+
+.dash-table-container .dash-header {
+    background: #1976d2 !important;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.dash-table-container .dash-cell {
+    background: #232526 !important;
+    color: #f4f6fa !important;
+}
+
+.dash-graph {
+    border-radius: 16px;
+    box-shadow: 0 2px 16px #1976d233;
+    margin-bottom: 24px;
+    background: #232526;
+    padding: 8px;
+}
+
+button, .dash-button {
+    background: #1976d2;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+button:hover, .dash-button:hover {
+    background: #1565c0;
+    color: #fff;
+}
+
+/* Add smooth transitions */
+* {
+    transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+    .card {
+        padding: 16px 8px;
+        margin: 16px;
+    }
+}

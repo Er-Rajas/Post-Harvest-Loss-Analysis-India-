@@ -1,0 +1,55 @@
+Sl. No,Crops,Commodities,% Average Loss
+1,Cereals,Paddy,4.77
+2,Cereals,Wheat,4.17
+3,Cereals,Maize,3.89
+4,Cereals,Bajra,4.37
+5,Cereals,Sorghum,5.92
+6,Pulses,Pigeon Pea,5.65
+7,Pulses,Chick Pea,6.74
+8,Pulses,Black Gram,5.83
+9,Pulses,Green Gram,6.19
+10,Oilseed,Mustard,4.46
+11,Oilseed,Cottonseed,2.87
+12,Oilseed,Soybean,7.51
+13,Oilseed,Safflower,3.06
+14,Oilseed,Sunflower,4.38
+15,Oilseed,Groundnut,5.73
+16,Fruits,Apple,9.51
+17,Fruits,Banana,7.57
+18,Fruits,Citrus,7.71
+19,Fruits,Grapes,7.15
+20,Fruits,Guava,15.05
+21,Fruits,Mango,8.53
+22,Fruits,Papaya,6.59
+23,Fruits,Sapota,9.53
+24,Fruits,Pineapple,6.02
+25,Fruits,Pomegranate,6.82
+26,Fruits,Muskmelon,6.83
+27,Vegetables,Cabbage,8.15
+28,Vegetables,Cauliflower,7.89
+29,Vegetables,Green Pea,6.43
+30,Vegetables,Mushroom,7.2
+31,Vegetables,Onion,7.26
+32,Vegetables,Potato,5.96
+33,Vegetables,Tomato,11.61
+34,Vegetables,Tapioca,4.87
+35,Vegetables,Bottle gourd,7.01
+36,Vegetables,Brinjal,7.41
+37,Vegetables,Beans,7.11
+38,Vegetables,Radish,6.46
+39,Vegetables,Capsicum,5.15
+40,Vegetables,Okra,6.01
+41,Livestock Produce,Egg,6.03
+42,Livestock Produce,Inland Fish,4.86
+43,Livestock Produce,Marine Fish,8.76
+44,Livestock Produce,Meat,2.34
+45,Livestock Produce,Poultry Meat,5.63
+46,Livestock Produce,Milk,0.87
+47,Plantation Crops and Spices,Arecanut,4.41
+48,Plantation Crops and Spices,Cashew nut,3.72
+49,Plantation Crops and Spices,Coconut,3.86
+50,Plantation Crops and Spices,Sugarcane,7.33
+51,Plantation Crops and Spices,Black Pepper,1.29
+52,Plantation Crops and Spices,Chilli,6.11
+53,Plantation Crops and Spices,Coriander,5.32
+54,Plantation Crops and Spices,Turmeric,5.36
